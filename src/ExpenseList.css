@@ -1,0 +1,7 @@
+.expense-list__element {
+  display: flex;
+}
+
+.expense-list__element div {
+  margin: 8px;
+}
